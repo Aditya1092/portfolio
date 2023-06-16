@@ -341,6 +341,14 @@ nav ul li a:hover::after{
 
 }
 
+.btn.btn3{
+    display: inline-block;
+    cursor: pointer;
+    background: #ff004f;
+    
+    margin-bottom: 55px 0;
+}
+
 .contact-right form{
     width: 100%;
 }
