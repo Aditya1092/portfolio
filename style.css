@@ -11,7 +11,7 @@ html{
      
 }
 body{
-    background: #080808;
+    background: #0f0f10;
     color: #fff;
 }
 #header{
@@ -79,7 +79,7 @@ nav ul li a:hover::after{
 }
 
 .header-text h1 span{
-    color: #ff004f;
+    color: #06a4ff;
 }
 
 #about{
@@ -130,7 +130,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #06a4ff;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -147,7 +147,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #b54769;
+    color: #06a4ff;
     font-size: 14px;
 }
 
@@ -202,7 +202,7 @@ nav ul li a:hover::after{
 }
 
 .services-list div:hover{
-    background: #ff004f;
+    background: #06a4ff;
     transform: translateY(-10px);
 }
 
@@ -237,7 +237,7 @@ nav ul li a:hover::after{
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.6),#ff004f);
+    background: linear-gradient(rgba(0, 0, 0, 0.6),#06a4ff);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -283,7 +283,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #ff004f;
+    border: 1px solid #06a4ff;
     padding: 14px 50px;
     color: white;
     border-radius: 6px;
@@ -291,7 +291,7 @@ nav ul li a:hover::after{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #ff004f ;
+    background: #06a4ff ;
 }
 
 
@@ -309,9 +309,13 @@ nav ul li a:hover::after{
 }
 
 .contact-left p i{
-    color: #ff004f;
+    color: #06a4ff;
     margin-right: 15px;
     font-size: 25px;
+}
+.contact-left p a{
+    color: #ffffff;
+    
 }
 
 .social-icons{
@@ -329,14 +333,14 @@ nav ul li a:hover::after{
 }
 
 .social-icons a:hover{
-    color: #ff004f;
+    color: #06a4ff;
     transform: translateY(-5px);
 
 }
 
 .btn.btn2{
     display: inline-block;
-    background: #ff004f;
+    background: #06a4ff;
     cursor: pointer;
 
 }
@@ -344,7 +348,7 @@ nav ul li a:hover::after{
 .btn.btn3{
     display: inline-block;
     cursor: pointer;
-    background: #ff004f;
+    background: #06a4ff;
     
     margin-bottom: 55px 0;
 }
